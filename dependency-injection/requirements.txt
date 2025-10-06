@@ -1,0 +1,14 @@
+# Core Python (no additional requirements for examples 01-03, 05-06)
+# Python 3.10+
+
+# Optional: For FastAPI example (04_fastapi_di.py)
+fastapi>=0.115.0
+uvicorn[standard]>=0.34.0
+
+# Optional: For better type checking
+mypy>=1.10.0
+
+# Optional: For testing
+pytest>=8.0.0
+pytest-cov>=5.0.0
+
